@@ -48,7 +48,7 @@ Here are few resources to install the packages (if not using *requirements.txt*)
 
 ```
 @misc{chenyang2023gptls,
-      title={GPT-LS: Generative Pre-Trained Transformer with Off-line Reinforcement Learning for Logic Synthesiss}, 
+      title={GPT-LS: Generative Pre-Trained Transformer with Off-line Reinforcement Learning for Logic Synthesis}, 
       author={Chenyang Lv, Ziling Wei, Weikang Qian, Junjie Ye, Chang Feng, Zhezhi He},
       booktitle={40th International Conference on Computer Design (ICCD)},
       year={2023},
